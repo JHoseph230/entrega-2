@@ -1,0 +1,18 @@
+body {
+    background-color: #121212; /* Cambia el color a tu preferencia */
+    color: #fff; /* Cambia el color del texto para asegurar la legibilidad */
+  }
+
+.card-custom {
+    background-color: #121212; /* Cambia el color de fondo a oscuro */
+    color: gold; /* Cambia el color del texto a blanco */
+  }
+  
+.navbar-custom {
+    background-color: #121212; /* Cambia el color de fondo a oscuro */
+    color: gold; /* Cambia el color del texto a dorado */
+    border: 2px solid gold; /* Establece un borde sólido de 2px de color dorado alrededor de la barra de navegación */
+    border-radius: 10px; /* Añade bordes redondeados para un aspecto más estilizado */
+  }
+    
+  
